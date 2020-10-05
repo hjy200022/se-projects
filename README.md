@@ -12,6 +12,9 @@
 > 建议技术方案：B/S结构（即网站）+微信服务号（可选 ，个人端）
 
 ![图片.png](https://kana-bucket.oss-cn-beijing.aliyuncs.com/%E5%9B%BE%E7%89%87_1601885201534.png)
+<center>
+    <img src="https://kana-bucket.oss-cn-beijing.aliyuncs.com/%E5%9B%BE%E7%89%87_1601885201534.png">
+</center>
 
 注: 部分架构设计参考项目:haetae (beta)
 
