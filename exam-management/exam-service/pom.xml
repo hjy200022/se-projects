@@ -6,10 +6,18 @@
         <artifactId>kana-parent</artifactId>
         <groupId>us.sep</groupId>
         <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>kana-service</artifactId>
+    <packaging>jar</packaging>
+    <dependencies>
 
+    <dependency>
+        <groupId>us.sep</groupId>
+        <artifactId>kana-core</artifactId>
+    </dependency>
 
+    </dependencies>
 </project>
