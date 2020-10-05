@@ -45,7 +45,7 @@
         <dependency>
             <groupId>us.sep</groupId>
             <artifactId>kana-service</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <!--第三方工具库-->
         <dependency>
