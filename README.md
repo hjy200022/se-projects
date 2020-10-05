@@ -11,7 +11,7 @@
 该系统同时在线人数为3000人，操作时的反应速度不得低于3秒，并且要考虑到敏感数据的安全性。
 > 建议技术方案：B/S结构（即网站）+微信服务号（可选 ，个人端）
 
-![图片.png](https://kana-bucket.oss-cn-beijing.aliyuncs.com/%E5%9B%BE%E7%89%87_1601885201534.png)
+
 <center>
     <img src="https://kana-bucket.oss-cn-beijing.aliyuncs.com/%E5%9B%BE%E7%89%87_1601885201534.png">
 </center>
